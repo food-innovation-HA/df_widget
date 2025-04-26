@@ -1,7 +1,6 @@
-***********************************************************************************************************************
-!! Overview for df_widget                                                                                            !!
-!! Quickly transform .xlsx, .csv, or even memory-stored (i.e., copied) data into a Pandas DataFrame using ipywidgets !!
-***********************************************************************************************************************
+# Overview for df_widget                                                                                            !!
+# Quickly transform .xlsx, .csv, or even memory-stored (i.e., copied) data into a Pandas DataFrame using ipywidgets !!
+----------------------------------------------------------------------------------------------------------------------
 
 # df_widget
 
