@@ -1,0 +1,8 @@
+name: data-import-widget
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyter
+  - ipywidgets=8.1.5
+  - pandas
