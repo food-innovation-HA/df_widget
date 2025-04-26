@@ -20,18 +20,18 @@ e.g.```bash
    git clone https://github.com/food-innovation-HA/df_widget.git
    cd df_widget
 
-Usage
+## Usage
 - Open nb_widg_df.ipynb in Jupyter Notebook.
 - Choose your data import method using the radio buttons:- File Upload: Select a CSV or Excel file from your system.
 - Copy & Paste: Paste your spreadsheet data directly into the provided textarea.
 
 - Once data is provided, the widget will process it and display the DataFrame’s header along with the first five rows to confirm that the data was loaded successfully.
 
-Requirements
+## Requirements
 - Python 3.9 or higher
 - Jupyter Notebook or JupyterLab
 - ipywidgets (v8.1.5 or later)
 - pandas
 
-License
+## License
 This project is licensed under the MIT License
